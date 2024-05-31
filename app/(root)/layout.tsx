@@ -1,4 +1,3 @@
-"use client"
 
 import MobileNav from "@/components/MobileNav";
 import Sidebar from "@/components/Sidebar";
