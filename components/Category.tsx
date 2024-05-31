@@ -28,6 +28,7 @@ import { Progress } from "./ui/progress";
         <Progress
           value={(category.count / category.totalCount) * 100}
           className={cn("h-2 w-full", progressBg)}
+          //Nothing to worry
           indicatorClassName={cn("h-2 w-full", indicator)}
         />
       </div>
